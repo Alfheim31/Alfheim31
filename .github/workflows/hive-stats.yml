@@ -1,0 +1,43 @@
+name: Hive stats
+
+# Redraws assets/hive-stats.svg and assets/hive-activity.svg from your live
+# GitHub data, so the profile never depends on an overloaded public service.
+on:
+  schedule:
+    - cron: "17 16 * * *"   # every day, 00:17 Manila time
+  workflow_dispatch:         # lets you run it by hand from the Actions tab
+  push:
+    branches: [main, master]
+    paths:
+      - "scripts/hive_stats.py"
+      - ".github/workflows/hive-stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Draw the hive
+        env:
+          # Optional: add a repo secret named HIVE_TOKEN (a personal access token)
+          # to also count private contributions. Without it, public data is used.
+          HIVE_USER: Alfheim31
+          HIVE_TOKEN: ${{ secrets.HIVE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/hive_stats.py
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name "hive-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/hive-stats.svg assets/hive-activity.svg
+          git diff --cached --quiet || git commit -m "🐝 refresh hive stats"
+          git push
