@@ -93,13 +93,13 @@ My BSCS thesis proposes a **cooperative routing framework for Metro Manila's EDS
 
 ### 📊 Hive activity
 
+<!-- These two images are redrawn daily by .github/workflows/hive-stats.yml -->
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F9AB00&icon_color=F9AB00&text_color=8B949E" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=F9AB00&text_color=8B949E" alt="Top languages" />
+  <img src="assets/hive-stats.svg" width="100%" alt="GitHub stats and top languages for Alfheim31" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=8B949E&line=F9AB00&point=FFD166&area=true&area_color=F9AB00&hide_border=true" width="100%" alt="Contribution graph" />
+  <img src="assets/hive-activity.svg" width="100%" alt="Contribution honeycomb for Alfheim31" />
 </p>
 
 ### 💬 Join the swarm
