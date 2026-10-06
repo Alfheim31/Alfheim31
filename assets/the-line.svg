@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="The Line — Amiere's project route">
+<title>The Line — Amiere's project route</title>
+<defs>
+  <pattern id="honey" width="34.64" height="60" patternUnits="userSpaceOnUse">
+    <path d="M17.32 0L34.64 10V30L17.32 40L0 30V10Z M17.32 40V60" fill="none" stroke="#F9AB00" stroke-width="1" stroke-opacity="0.07"/>
+  </pattern>
+  <pattern id="honeyBright" width="34.64" height="60" patternUnits="userSpaceOnUse">
+    <path d="M17.32 0L34.64 10V30L17.32 40L0 30V10Z M17.32 40V60" fill="none" stroke="#FFD166" stroke-width="1.2" stroke-opacity="0.55"/>
+  </pattern>
+  <radialGradient id="spot"><stop offset="0" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="6"/>
+  </filter>
+</defs>
+<rect width="1200" height="230" rx="18" fill="#0D1117"/>
+<rect width="1200" height="230" rx="18" fill="url(#honey)"/>
+<mask id="sweep"><rect width="1200" height="230" fill="#000"/>
+  <circle cy="104" r="160" fill="url(#spot)">
+    <animate attributeName="cx" values="-300;1500" dur="10s" repeatCount="indefinite"/>
+  </circle>
+</mask>
+<rect width="1200" height="230" rx="18" fill="url(#honeyBright)" mask="url(#sweep)"/>
+<rect x="0.5" y="0.5" width="1199" height="229" rx="18" fill="none" stroke="#30363D"/>
+<text x="40" y="46" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#F9AB00" letter-spacing="2">◆ THE LINE</text><text x="152" y="46" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#8B949E">my route so far</text>
+<line x1="110" y1="112" x2="1090" y2="112" stroke="#1C2230" stroke-width="10" stroke-linecap="round"/>
+<line x1="845" y1="112" x2="1090" y2="112" stroke="#30363D" stroke-width="2" stroke-dasharray="6 8"/>
+<rect x="110" y="106.0" height="12" width="0" rx="6.0" fill="#F9AB00" opacity="0.25"><animate attributeName="width" values="0;0;245;245;490;490;735;735;980;980" keyTimes="0.0000;0.1333;0.2167;0.3500;0.4333;0.5667;0.6500;0.7833;0.8667;1.0000" dur="12.0s" repeatCount="indefinite"/></rect>
+<rect x="110" y="110.0" height="4" width="0" rx="2.0" fill="#F9AB00" opacity="1"><animate attributeName="width" values="0;0;245;245;490;490;735;735;980;980" keyTimes="0.0000;0.1333;0.2167;0.3500;0.4333;0.5667;0.6500;0.7833;0.8667;1.0000" dur="12.0s" repeatCount="indefinite"/></rect>
+<g font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace">
+<polygon points="123.0,119.5 110.0,127.0 97.0,119.5 97.0,104.5 110.0,97.0 123.0,104.5" fill="#161B22" stroke="#30363D" stroke-width="2"><animate attributeName="stroke" values="#30363D;#F9AB00" keyTimes="0;0.0000" calcMode="discrete" dur="12.0s" repeatCount="indefinite"/></polygon>
+<text x="110" y="117" text-anchor="middle" font-size="12" font-weight="700" fill="#8B949E">01<animate attributeName="fill" values="#8B949E;#F9AB00" keyTimes="0;0.0000" calcMode="discrete" dur="12.0s" repeatCount="indefinite"/></text>
+<text x="110" y="164" text-anchor="middle" font-family="-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" fill="#E6EDF3">Traffic Hive</text><text x="110" y="184" text-anchor="middle" font-size="12" fill="#8B949E">thesis · MARL</text>
+</g>
+<g font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace">
+<polygon points="368.0,119.5 355.0,127.0 342.0,119.5 342.0,104.5 355.0,97.0 368.0,104.5" fill="#161B22" stroke="#30363D" stroke-width="2"><animate attributeName="stroke" values="#30363D;#F9AB00" keyTimes="0;0.2167" calcMode="discrete" dur="12.0s" repeatCount="indefinite"/></polygon>
+<text x="355" y="117" text-anchor="middle" font-size="12" font-weight="700" fill="#8B949E">02<animate attributeName="fill" values="#8B949E;#F9AB00" keyTimes="0;0.2167" calcMode="discrete" dur="12.0s" repeatCount="indefinite"/></text>
+<text x="355" y="164" text-anchor="middle" font-family="-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" fill="#E6EDF3">SELAE</text><text x="355" y="184" text-anchor="middle" font-size="12" fill="#8B949E">OCR check-in</text>
+</g>
+<g font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace">
+<polygon points="613.0,119.5 600.0,127.0 587.0,119.5 587.0,104.5 600.0,97.0 613.0,104.5" fill="#161B22" stroke="#30363D" stroke-width="2"><animate attributeName="stroke" values="#30363D;#F9AB00" keyTimes="0;0.4333" calcMode="discrete" dur="12.0s" repeatCount="indefinite"/></polygon>
+<text x="600" y="117" text-anchor="middle" font-size="12" font-weight="700" fill="#8B949E">03<animate attributeName="fill" values="#8B949E;#F9AB00" keyTimes="0;0.4333" calcMode="discrete" dur="12.0s" repeatCount="indefinite"/></text>
+<text x="600" y="164" text-anchor="middle" font-family="-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" fill="#E6EDF3">GDGoC PLM Web</text><text x="600" y="184" text-anchor="middle" font-size="12" fill="#8B949E">member portal</text>
+</g>
+<g font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace">
+<polygon points="858.0,119.5 845.0,127.0 832.0,119.5 832.0,104.5 845.0,97.0 858.0,104.5" fill="#161B22" stroke="#30363D" stroke-width="2"><animate attributeName="stroke" values="#30363D;#F9AB00" keyTimes="0;0.6500" calcMode="discrete" dur="12.0s" repeatCount="indefinite"/></polygon>
+<text x="845" y="117" text-anchor="middle" font-size="12" font-weight="700" fill="#8B949E">04<animate attributeName="fill" values="#8B949E;#F9AB00" keyTimes="0;0.6500" calcMode="discrete" dur="12.0s" repeatCount="indefinite"/></text>
+<text x="845" y="164" text-anchor="middle" font-family="-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" fill="#E6EDF3">Community</text><text x="845" y="184" text-anchor="middle" font-size="12" fill="#8B949E">GDG on Campus</text>
+</g>
+<g font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace">
+<polygon points="1103.0,119.5 1090.0,127.0 1077.0,119.5 1077.0,104.5 1090.0,97.0 1103.0,104.5" fill="#161B22" stroke="#30363D" stroke-width="2" stroke-dasharray="4 4"><animate attributeName="stroke" values="#30363D;#FFD166" keyTimes="0;0.8667" calcMode="discrete" dur="12.0s" repeatCount="indefinite"/></polygon>
+<text x="1090" y="117" text-anchor="middle" font-size="12" font-weight="700" fill="#8B949E">?<animate attributeName="fill" values="#8B949E;#FFD166" keyTimes="0;0.8667" calcMode="discrete" dur="12.0s" repeatCount="indefinite"/></text>
+<text x="1090" y="164" text-anchor="middle" font-family="-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="16" font-weight="700" fill="#E6EDF3">Next stop</text><text x="1090" y="184" text-anchor="middle" font-size="12" fill="#8B949E">stay tuned</text>
+</g>
+<g><animateTransform attributeName="transform" type="translate" values="110 112;110 112;355 112;355 112;600 112;600 112;845 112;845 112;1090 112;1090 112" keyTimes="0.0000;0.1333;0.2167;0.3500;0.4333;0.5667;0.6500;0.7833;0.8667;1.0000" dur="12.0s" repeatCount="indefinite"/>
+  <circle r="26" fill="#F9AB00" opacity="0.18" filter="url(#softglow)"/>
+  <g transform="translate(0,-34)">
+    <polygon points="9.5,5.5 0.0,11.0 -9.5,5.5 -9.5,-5.5 -0.0,-11.0 9.5,-5.5" fill="#F9AB00" filter="url(#glow)"/>
+    <polygon points="3.5,2.0 0.0,4.0 -3.5,2.0 -3.5,-2.0 -0.0,-4.0 3.5,-2.0" fill="#0D1117"/>
+    <animateTransform attributeName="transform" type="translate" values="0 -34;0 -39;0 -34" dur="0.8s" repeatCount="indefinite"/>
+  </g>
+</g>
+</svg>

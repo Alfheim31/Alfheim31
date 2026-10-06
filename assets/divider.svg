@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="44" viewBox="0 0 1200 44" role="img" aria-label="road divider">
+<title>road divider</title>
+<defs>
+  <pattern id="honey" width="34.64" height="60" patternUnits="userSpaceOnUse">
+    <path d="M17.32 0L34.64 10V30L17.32 40L0 30V10Z M17.32 40V60" fill="none" stroke="#F9AB00" stroke-width="1" stroke-opacity="0.07"/>
+  </pattern>
+  <pattern id="honeyBright" width="34.64" height="60" patternUnits="userSpaceOnUse">
+    <path d="M17.32 0L34.64 10V30L17.32 40L0 30V10Z M17.32 40V60" fill="none" stroke="#FFD166" stroke-width="1.2" stroke-opacity="0.55"/>
+  </pattern>
+  <radialGradient id="spot"><stop offset="0" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="6"/>
+  </filter>
+</defs>
+<rect x="0" y="8" width="1200" height="28" rx="14" fill="#1C2230"/>
+<line x1="14" y1="22" x2="1186" y2="22" stroke="#F9AB00" stroke-opacity="0.45" stroke-width="2" stroke-dasharray="16 14"><animate attributeName="stroke-dashoffset" values="0;-60" dur="1s" repeatCount="indefinite"/></line>
+<defs><path id="dl1" d="M -20 15 H 1220"/><path id="dl2" d="M -20 29 H 1220"/></defs>
+<g filter="url(#glow)"><circle r="3.5" fill="#FFD166"/><circle r="7.700000000000001" fill="#FFD166" opacity="0.18"/>
+  <animateMotion dur="6s" begin="0s" repeatCount="indefinite"><mpath xlink:href="#dl1"/></animateMotion></g>
+<g filter="url(#glow)"><circle r="3.5" fill="#F9AB00"/><circle r="7.700000000000001" fill="#F9AB00" opacity="0.18"/>
+  <animateMotion dur="6s" begin="-3s" repeatCount="indefinite"><mpath xlink:href="#dl1"/></animateMotion></g>
+<g filter="url(#glow)"><circle r="3.5" fill="#4285F4"/><circle r="7.700000000000001" fill="#4285F4" opacity="0.18"/>
+  <animateMotion dur="7.5s" begin="-1.5s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath xlink:href="#dl2"/></animateMotion></g>
+<g filter="url(#glow)"><circle r="3.5" fill="#F9AB00"/><circle r="7.700000000000001" fill="#F9AB00" opacity="0.18"/>
+  <animateMotion dur="7.5s" begin="-5s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath xlink:href="#dl2"/></animateMotion></g>
+</svg>

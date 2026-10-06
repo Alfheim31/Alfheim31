@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="Next stop: wherever the next good idea is">
+<title>Next stop: wherever the next good idea is</title>
+<defs>
+  <pattern id="honey" width="34.64" height="60" patternUnits="userSpaceOnUse">
+    <path d="M17.32 0L34.64 10V30L17.32 40L0 30V10Z M17.32 40V60" fill="none" stroke="#F9AB00" stroke-width="1" stroke-opacity="0.07"/>
+  </pattern>
+  <pattern id="honeyBright" width="34.64" height="60" patternUnits="userSpaceOnUse">
+    <path d="M17.32 0L34.64 10V30L17.32 40L0 30V10Z M17.32 40V60" fill="none" stroke="#FFD166" stroke-width="1.2" stroke-opacity="0.55"/>
+  </pattern>
+  <radialGradient id="spot"><stop offset="0" stop-color="#fff" stop-opacity="1"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></radialGradient>
+  <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+    <feGaussianBlur stdDeviation="3" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="6"/>
+  </filter>
+</defs>
+<rect width="1200" height="190" rx="18" fill="#0D1117"/>
+<rect width="1200" height="190" rx="18" fill="url(#honey)"/>
+<mask id="sweep"><rect width="1200" height="190" fill="#000"/>
+  <circle cy="86" r="160" fill="url(#spot)">
+    <animate attributeName="cx" values="-300;1500" dur="8s" repeatCount="indefinite"/>
+  </circle>
+</mask>
+<rect width="1200" height="190" rx="18" fill="url(#honeyBright)" mask="url(#sweep)"/>
+<rect x="0.5" y="0.5" width="1199" height="189" rx="18" fill="none" stroke="#30363D"/>
+<defs><path id="fl" d="M -40 150 C 300 120, 900 180, 1240 140"/></defs>
+<path d="M -40 150 C 300 120, 900 180, 1240 140" fill="none" stroke="#1C2230" stroke-width="30"/>
+<path d="M -40 150 C 300 120, 900 180, 1240 140" fill="none" stroke="#F9AB00" stroke-opacity="0.35" stroke-width="2" stroke-dasharray="14 12"><animate attributeName="stroke-dashoffset" values="0;-52" dur="1.1s" repeatCount="indefinite"/></path>
+<g filter="url(#glow)"><circle r="4" fill="#FFD166"/><circle r="8.8" fill="#FFD166" opacity="0.18"/>
+  <animateMotion dur="9s" begin="0.0s" repeatCount="indefinite"><mpath xlink:href="#fl"/></animateMotion></g>
+<g filter="url(#glow)"><circle r="4" fill="#F9AB00"/><circle r="8.8" fill="#F9AB00" opacity="0.18"/>
+  <animateMotion dur="9s" begin="-1.8s" repeatCount="indefinite"><mpath xlink:href="#fl"/></animateMotion></g>
+<g filter="url(#glow)"><circle r="4" fill="#FFD166"/><circle r="8.8" fill="#FFD166" opacity="0.18"/>
+  <animateMotion dur="9s" begin="-3.6s" repeatCount="indefinite"><mpath xlink:href="#fl"/></animateMotion></g>
+<g filter="url(#glow)"><circle r="4" fill="#F9AB00"/><circle r="8.8" fill="#F9AB00" opacity="0.18"/>
+  <animateMotion dur="9s" begin="-5.4s" repeatCount="indefinite"><mpath xlink:href="#fl"/></animateMotion></g>
+<g filter="url(#glow)"><circle r="4" fill="#FFD166"/><circle r="8.8" fill="#FFD166" opacity="0.18"/>
+  <animateMotion dur="9s" begin="-7.2s" repeatCount="indefinite"><mpath xlink:href="#fl"/></animateMotion></g>
+<text x="600" y="72" text-anchor="middle" font-family="-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="800" fill="#E6EDF3">Next stop: <tspan fill="#F9AB00">wherever the next good idea is.</tspan></text>
+<text x="600" y="100" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" fill="#8B949E">thanks for riding along · come build something with me</text>
+<g transform="translate(170,64)">
+  <polygon points="8.7,5.0 0.0,10.0 -8.7,5.0 -8.7,-5.0 -0.0,-10.0 8.7,-5.0" fill="none" stroke="#F9AB00" stroke-width="2" opacity="0">
+    <animateTransform attributeName="transform" type="scale" values="1;2.4" dur="2.4s" begin="0s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0" dur="2.4s" begin="0s" repeatCount="indefinite"/>
+  </polygon>
+  <polygon points="8.7,5.0 0.0,10.0 -8.7,5.0 -8.7,-5.0 -0.0,-10.0 8.7,-5.0" fill="#0D1117" stroke="#F9AB00" stroke-width="2" filter="url(#glow)"/>
+  <polygon points="3.9,2.2 0.0,4.5 -3.9,2.2 -3.9,-2.3 -0.0,-4.5 3.9,-2.3" fill="#F9AB00">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" begin="0s" repeatCount="indefinite"/>
+  </polygon>
+</g>
+<g transform="translate(1030,64)">
+  <polygon points="8.7,5.0 0.0,10.0 -8.7,5.0 -8.7,-5.0 -0.0,-10.0 8.7,-5.0" fill="none" stroke="#F9AB00" stroke-width="2" opacity="0">
+    <animateTransform attributeName="transform" type="scale" values="1;2.4" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+  </polygon>
+  <polygon points="8.7,5.0 0.0,10.0 -8.7,5.0 -8.7,-5.0 -0.0,-10.0 8.7,-5.0" fill="#0D1117" stroke="#F9AB00" stroke-width="2" filter="url(#glow)"/>
+  <polygon points="3.9,2.2 0.0,4.5 -3.9,2.2 -3.9,-2.3 -0.0,-4.5 3.9,-2.3" fill="#F9AB00">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2.4s" begin="1.2s" repeatCount="indefinite"/>
+  </polygon>
+</g>
+</svg>
