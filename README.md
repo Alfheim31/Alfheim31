@@ -13,7 +13,7 @@ I'm a Computer Science student at **Pamantasan ng Lungsod ng Maynila**, and I'm 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Alfheim31/traffic-hive">
+  <a href="https://github.com/Alfheim31/traffic-hive-v2">
     <img src="assets/traffic-hive.svg" width="100%" alt="Traffic Hive: selfish routing jams one road, hive routing spreads cars across every route" />
   </a>
 </p>
