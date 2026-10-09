@@ -16,7 +16,7 @@
 <rect width="1200" height="330" rx="18" fill="url(#honey)"/>
 <rect width="1200" height="330" rx="18" fill="url(#honeyBright)" mask="url(#sweep)"/>
 <rect x="0.5" y="0.5" width="1199" height="329" rx="18" fill="none" stroke="#30363D"/>
-<polygon points="63.5,51.5 54.0,57.0 44.5,51.5 44.5,40.5 54.0,35.0 63.5,40.5" fill="#F9AB00" filter="url(#glow)"/><text x="76" y="53" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" font-weight="700" fill="#F9AB00" letter-spacing="2">HIVE ACTIVITY</text><text x="76" y="74" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8B949E">@Alfheim31 · refreshed Oct 08, 2026</text>
+<polygon points="63.5,51.5 54.0,57.0 44.5,51.5 44.5,40.5 54.0,35.0 63.5,40.5" fill="#F9AB00" filter="url(#glow)"/><text x="76" y="53" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" font-weight="700" fill="#F9AB00" letter-spacing="2">HIVE ACTIVITY</text><text x="76" y="74" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8B949E">@Alfheim31 · refreshed Oct 09, 2026</text>
 <g opacity="0">
   <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.15s" fill="freeze"/>
   <animateTransform attributeName="transform" type="translate" values="0 16;0 0" dur="0.6s" begin="0.15s" fill="freeze"/>
