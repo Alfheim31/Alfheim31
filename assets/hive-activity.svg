@@ -383,6 +383,7 @@
 <polygon points="1097.6,221.8 1088.7,226.9 1079.8,221.8 1079.8,211.5 1088.7,206.3 1097.6,211.5" fill="#9A6F00" opacity="0"><title>4 on 2026-10-10</title><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.48s" fill="freeze"/></polygon>
 <polygon points="1117.4,119.2 1108.4,124.3 1099.5,119.2 1099.5,108.8 1108.4,103.7 1117.4,108.8" fill="#1A2029" stroke="#2A313B" stroke-width="0.8"><title>0 on 2026-10-11</title></polygon>
 <polygon points="1127.2,136.2 1118.3,141.4 1109.4,136.2 1109.4,125.9 1118.3,120.8 1127.2,125.9" fill="#1A2029" stroke="#2A313B" stroke-width="0.8"><title>0 on 2026-10-12</title></polygon>
+<polygon points="1117.4,153.3 1108.4,158.5 1099.5,153.3 1099.5,143.0 1108.4,137.9 1117.4,143.0" fill="#1A2029" stroke="#2A313B" stroke-width="0.8"><title>0 on 2026-10-13</title></polygon>
 </g>
 <mask id="combsweep"><rect width="1200" height="300" fill="#000"/><rect x="-220" y="0" width="220" height="300" fill="url(#spot)"><animate attributeName="x" values="-260;1240" dur="5s" begin="2s" repeatCount="indefinite"/></rect></mask>
 <g mask="url(#combsweep)" filter="url(#glow)" opacity="0.9"><polygon points="149.8,153.3 140.9,158.5 132.0,153.3 132.0,143.0 140.9,137.9 149.8,143.0" fill="#FFD166"/>
