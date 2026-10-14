@@ -20,7 +20,7 @@
 <g><polygon points="90.6,119.2 81.7,124.3 72.8,119.2 72.8,108.8 81.7,103.7 90.6,108.8" fill="#1A2029" stroke="#2A313B" stroke-width="0.8"><title>0 on 2025-10-12</title></polygon>
 <polygon points="100.5,136.2 91.6,141.4 82.6,136.2 82.6,125.9 91.6,120.8 100.5,125.9" fill="#1A2029" stroke="#2A313B" stroke-width="0.8"><title>0 on 2025-10-13</title></polygon>
 <polygon points="90.6,153.3 81.7,158.5 72.8,153.3 72.8,143.0 81.7,137.9 90.6,143.0" fill="#1A2029" stroke="#2A313B" stroke-width="0.8"><title>0 on 2025-10-14</title></polygon>
-<polygon points="100.5,170.5 91.6,175.6 82.6,170.5 82.6,160.2 91.6,155.0 100.5,160.2" fill="#5C4300" opacity="0"><title>1 on 2025-10-15</title><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.20s" fill="freeze"/></polygon>
+<polygon points="100.5,170.5 91.6,175.6 82.6,170.5 82.6,160.2 91.6,155.0 100.5,160.2" fill="#1A2029" stroke="#2A313B" stroke-width="0.8"><title>0 on 2025-10-15</title></polygon>
 <polygon points="90.6,187.6 81.7,192.7 72.8,187.6 72.8,177.2 81.7,172.1 90.6,177.2" fill="#1A2029" stroke="#2A313B" stroke-width="0.8"><title>0 on 2025-10-16</title></polygon>
 <polygon points="100.5,204.7 91.6,209.8 82.6,204.7 82.6,194.3 91.6,189.2 100.5,194.3" fill="#1A2029" stroke="#2A313B" stroke-width="0.8"><title>0 on 2025-10-17</title></polygon>
 <polygon points="90.6,221.8 81.7,226.9 72.8,221.8 72.8,211.5 81.7,206.3 90.6,211.5" fill="#1A2029" stroke="#2A313B" stroke-width="0.8"><title>0 on 2025-10-18</title></polygon>
@@ -135,7 +135,7 @@
 <polygon points="416.4,170.5 407.5,175.6 398.6,170.5 398.6,160.2 407.5,155.0 416.4,160.2" fill="#1A2029" stroke="#2A313B" stroke-width="0.8"><title>0 on 2026-02-04</title></polygon>
 <polygon points="406.5,187.6 397.6,192.7 388.7,187.6 388.7,177.2 397.6,172.1 406.5,177.2" fill="#1A2029" stroke="#2A313B" stroke-width="0.8"><title>0 on 2026-02-05</title></polygon>
 <polygon points="416.4,204.7 407.5,209.8 398.6,204.7 398.6,194.3 407.5,189.2 416.4,194.3" fill="#1A2029" stroke="#2A313B" stroke-width="0.8"><title>0 on 2026-02-06</title></polygon>
-<polygon points="406.5,221.8 397.6,226.9 388.7,221.8 388.7,211.5 397.6,206.3 406.5,211.5" fill="#F9AB00" opacity="0"><title>6 on 2026-02-07</title><animate attributeName="opacity" values="0;1" dur="0.4s" begin="0.60s" fill="freeze"/></polygon>
+<polygon points="406.5,221.8 397.6,226.9 388.7,221.8 388.7,211.5 397.6,206.3 406.5,211.5" fill="#1A2029" stroke="#2A313B" stroke-width="0.8"><title>0 on 2026-02-07</title></polygon>
 <polygon points="426.3,119.2 417.4,124.3 408.4,119.2 408.4,108.8 417.4,103.7 426.3,108.8" fill="#1A2029" stroke="#2A313B" stroke-width="0.8"><title>0 on 2026-02-08</title></polygon>
 <polygon points="436.1,136.2 427.2,141.4 418.3,136.2 418.3,125.9 427.2,120.8 436.1,125.9" fill="#1A2029" stroke="#2A313B" stroke-width="0.8"><title>0 on 2026-02-09</title></polygon>
 <polygon points="426.3,153.3 417.4,158.5 408.4,153.3 408.4,143.0 417.4,137.9 426.3,143.0" fill="#1A2029" stroke="#2A313B" stroke-width="0.8"><title>0 on 2026-02-10</title></polygon>
@@ -380,17 +380,17 @@
 <polygon points="1107.5,170.5 1098.6,175.6 1089.7,170.5 1089.7,160.2 1098.6,155.0 1107.5,160.2" fill="#5C4300" opacity="0"><title>1 on 2026-10-07</title><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.48s" fill="freeze"/></polygon>
 <polygon points="1097.6,187.6 1088.7,192.7 1079.8,187.6 1079.8,177.2 1088.7,172.1 1097.6,177.2" fill="#1A2029" stroke="#2A313B" stroke-width="0.8"><title>0 on 2026-10-08</title></polygon>
 <polygon points="1107.5,204.7 1098.6,209.8 1089.7,204.7 1089.7,194.3 1098.6,189.2 1107.5,194.3" fill="#1A2029" stroke="#2A313B" stroke-width="0.8"><title>0 on 2026-10-09</title></polygon>
-<polygon points="1097.6,221.8 1088.7,226.9 1079.8,221.8 1079.8,211.5 1088.7,206.3 1097.6,211.5" fill="#9A6F00" opacity="0"><title>4 on 2026-10-10</title><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.48s" fill="freeze"/></polygon>
+<polygon points="1097.6,221.8 1088.7,226.9 1079.8,221.8 1079.8,211.5 1088.7,206.3 1097.6,211.5" fill="#9A6F00" opacity="0"><title>3 on 2026-10-10</title><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.48s" fill="freeze"/></polygon>
 <polygon points="1117.4,119.2 1108.4,124.3 1099.5,119.2 1099.5,108.8 1108.4,103.7 1117.4,108.8" fill="#1A2029" stroke="#2A313B" stroke-width="0.8"><title>0 on 2026-10-11</title></polygon>
 <polygon points="1127.2,136.2 1118.3,141.4 1109.4,136.2 1109.4,125.9 1118.3,120.8 1127.2,125.9" fill="#1A2029" stroke="#2A313B" stroke-width="0.8"><title>0 on 2026-10-12</title></polygon>
 <polygon points="1117.4,153.3 1108.4,158.5 1099.5,153.3 1099.5,143.0 1108.4,137.9 1117.4,143.0" fill="#1A2029" stroke="#2A313B" stroke-width="0.8"><title>0 on 2026-10-13</title></polygon>
+<polygon points="1127.2,170.5 1118.3,175.6 1109.4,170.5 1109.4,160.2 1118.3,155.0 1127.2,160.2" fill="#5C4300" opacity="0"><title>1 on 2026-10-14</title><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.50s" fill="freeze"/></polygon>
 </g>
 <mask id="combsweep"><rect width="1200" height="300" fill="#000"/><rect x="-220" y="0" width="220" height="300" fill="url(#spot)"><animate attributeName="x" values="-260;1240" dur="5s" begin="2s" repeatCount="indefinite"/></rect></mask>
 <g mask="url(#combsweep)" filter="url(#glow)" opacity="0.9"><polygon points="149.8,153.3 140.9,158.5 132.0,153.3 132.0,143.0 140.9,137.9 149.8,143.0" fill="#FFD166"/>
 <polygon points="278.2,170.5 269.3,175.6 260.3,170.5 260.3,160.2 269.3,155.0 278.2,160.2" fill="#FFD166"/>
 <polygon points="278.2,204.7 269.3,209.8 260.3,204.7 260.3,194.3 269.3,189.2 278.2,194.3" fill="#FFD166"/>
 <polygon points="317.7,136.2 308.8,141.4 299.8,136.2 299.8,125.9 308.8,120.8 317.7,125.9" fill="#FFD166"/>
-<polygon points="406.5,221.8 397.6,226.9 388.7,221.8 388.7,211.5 397.6,206.3 406.5,211.5" fill="#FFD166"/>
 <polygon points="643.5,221.8 634.6,226.9 625.6,221.8 625.6,211.5 634.6,206.3 643.5,211.5" fill="#FFD166"/>
 <polygon points="663.2,119.2 654.3,124.3 645.4,119.2 645.4,108.8 654.3,103.7 663.2,108.8" fill="#FFD166"/>
 <polygon points="1038.4,153.3 1029.5,158.5 1020.5,153.3 1020.5,143.0 1029.5,137.9 1038.4,143.0" fill="#FFD166"/>
@@ -399,8 +399,8 @@
 <g><animateTransform attributeName="transform" type="translate" values="269.3 165.3;269.3 199.5;308.8 131.1;634.6 216.6;269.3 165.3" dur="6.4s" begin="2s" repeatCount="indefinite" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1"/>
   <circle r="14" fill="#F9AB00" opacity="0.25" filter="url(#glow)"/>
   <polygon points="4.3,2.5 0.0,5.0 -4.3,2.5 -4.3,-2.5 -0.0,-5.0 4.3,-2.5" fill="#0D1117" stroke="#FFD166" stroke-width="2"/></g>
-<text x="72" y="262" font-family="-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="800" fill="#E6EDF3">112<tspan font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="400" fill="#8B949E" dx="8">contributions in the last year</tspan></text>
-<text x="372" y="262" font-family="-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="800" fill="#F9AB00">0<tspan font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="400" fill="#8B949E" dx="8">day current streak</tspan></text>
+<text x="72" y="262" font-family="-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="800" fill="#E6EDF3">105<tspan font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="400" fill="#8B949E" dx="8">contributions in the last year</tspan></text>
+<text x="372" y="262" font-family="-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="800" fill="#F9AB00">1<tspan font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="400" fill="#8B949E" dx="8">day current streak</tspan></text>
 <text x="672" y="262" font-family="-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="22" font-weight="800" fill="#E6EDF3">4<tspan font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="400" fill="#8B949E" dx="8">day longest streak</tspan></text>
 <text x="1018" y="258" text-anchor="end" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#8B949E">less</text><polygon points="1042.1,257.5 1036.0,261.0 1029.9,257.5 1029.9,250.5 1036.0,247.0 1042.1,250.5" fill="#161B22" stroke="#30363D" stroke-width="0.8"/><polygon points="1062.1,257.5 1056.0,261.0 1049.9,257.5 1049.9,250.5 1056.0,247.0 1062.1,250.5" fill="#5C4300" stroke="#5C4300" stroke-width="0.8"/><polygon points="1082.1,257.5 1076.0,261.0 1069.9,257.5 1069.9,250.5 1076.0,247.0 1082.1,250.5" fill="#9A6F00" stroke="#9A6F00" stroke-width="0.8"/><polygon points="1102.1,257.5 1096.0,261.0 1089.9,257.5 1089.9,250.5 1096.0,247.0 1102.1,250.5" fill="#F9AB00" stroke="#F9AB00" stroke-width="0.8"/><polygon points="1122.1,257.5 1116.0,261.0 1109.9,257.5 1109.9,250.5 1116.0,247.0 1122.1,250.5" fill="#FFD166" stroke="#FFD166" stroke-width="0.8"/><text x="1132" y="258" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#8B949E">more</text>
 </svg>
