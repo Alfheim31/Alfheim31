@@ -16,7 +16,7 @@
 <rect width="1200" height="330" rx="18" fill="url(#honey)"/>
 <rect width="1200" height="330" rx="18" fill="url(#honeyBright)" mask="url(#sweep)"/>
 <rect x="0.5" y="0.5" width="1199" height="329" rx="18" fill="none" stroke="#30363D"/>
-<polygon points="63.5,51.5 54.0,57.0 44.5,51.5 44.5,40.5 54.0,35.0 63.5,40.5" fill="#F9AB00" filter="url(#glow)"/><text x="76" y="53" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" font-weight="700" fill="#F9AB00" letter-spacing="2">HIVE ACTIVITY</text><text x="76" y="74" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8B949E">@Alfheim31 · refreshed Oct 14, 2026</text>
+<polygon points="63.5,51.5 54.0,57.0 44.5,51.5 44.5,40.5 54.0,35.0 63.5,40.5" fill="#F9AB00" filter="url(#glow)"/><text x="76" y="53" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="15" font-weight="700" fill="#F9AB00" letter-spacing="2">HIVE ACTIVITY</text><text x="76" y="74" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8B949E">@Alfheim31 · refreshed Oct 15, 2026</text>
 <g opacity="0">
   <animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.15s" fill="freeze"/>
   <animateTransform attributeName="transform" type="translate" values="0 16;0 0" dur="0.6s" begin="0.15s" fill="freeze"/>
@@ -25,7 +25,7 @@
     <animateTransform attributeName="transform" type="scale" values="1;1.25" dur="3s" begin="0.95s" repeatCount="indefinite"/>
   </polygon></g>
   <polygon points="173.4,232.0 118.0,264.0 62.6,232.0 62.6,168.0 118.0,136.0 173.4,168.0" fill="#161B22" stroke="#F9AB00" stroke-opacity="0.7" stroke-width="2"/>
-  <text x="118" y="208" text-anchor="middle" font-family="-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#E6EDF3">105</text>
+  <text x="118" y="208" text-anchor="middle" font-family="-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#E6EDF3">109</text>
   <text x="118" y="178" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="9.5" fill="#F9AB00" letter-spacing="1">CONTRIBUTIONS</text>
   <text x="118" y="230" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" fill="#8B949E">this year</text>
 </g>
@@ -37,7 +37,7 @@
     <animateTransform attributeName="transform" type="scale" values="1;1.25" dur="3s" begin="1.13s" repeatCount="indefinite"/>
   </polygon></g>
   <polygon points="313.4,232.0 258.0,264.0 202.6,232.0 202.6,168.0 258.0,136.0 313.4,168.0" fill="#161B22" stroke="#F9AB00" stroke-opacity="0.7" stroke-width="2"/>
-  <text x="258" y="208" text-anchor="middle" font-family="-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#E6EDF3">99</text>
+  <text x="258" y="208" text-anchor="middle" font-family="-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#E6EDF3">101</text>
   <text x="258" y="178" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="9.5" fill="#F9AB00" letter-spacing="1">COMMITS</text>
   <text x="258" y="230" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" fill="#8B949E">this year</text>
 </g>
@@ -63,7 +63,7 @@
   <polygon points="593.4,232.0 538.0,264.0 482.6,232.0 482.6,168.0 538.0,136.0 593.4,168.0" fill="#161B22" stroke="#F9AB00" stroke-opacity="0.7" stroke-width="2"/>
   <text x="538" y="208" text-anchor="middle" font-family="-apple-system,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" fill="#E6EDF3">2</text>
   <text x="538" y="178" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="9.5" fill="#F9AB00" letter-spacing="1">STARS</text>
-  <text x="538" y="230" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" fill="#8B949E">across 6 repos</text>
+  <text x="538" y="230" text-anchor="middle" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" fill="#8B949E">across 7 repos</text>
 </g>
 <text x="690" y="100" font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#8B949E" letter-spacing="1">TRAFFIC BY LANGUAGE</text>
 <g font-family="'SF Mono','JetBrains Mono','Cascadia Code',Consolas,'Liberation Mono',Menlo,monospace">
