@@ -387,6 +387,7 @@
 <polygon points="1127.2,170.5 1118.3,175.6 1109.4,170.5 1109.4,160.2 1118.3,155.0 1127.2,160.2" fill="#5C4300" opacity="0"><title>1 on 2026-10-14</title><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.50s" fill="freeze"/></polygon>
 <polygon points="1117.4,187.6 1108.4,192.7 1099.5,187.6 1099.5,177.2 1108.4,172.1 1117.4,177.2" fill="#9A6F00" opacity="0"><title>4 on 2026-10-15</title><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.50s" fill="freeze"/></polygon>
 <polygon points="1127.2,204.7 1118.3,209.8 1109.4,204.7 1109.4,194.3 1118.3,189.2 1127.2,194.3" fill="#5C4300" opacity="0"><title>1 on 2026-10-16</title><animate attributeName="opacity" values="0;1" dur="0.4s" begin="1.50s" fill="freeze"/></polygon>
+<polygon points="1117.4,221.8 1108.4,226.9 1099.5,221.8 1099.5,211.5 1108.4,206.3 1117.4,211.5" fill="#1A2029" stroke="#2A313B" stroke-width="0.8"><title>0 on 2026-10-17</title></polygon>
 </g>
 <mask id="combsweep"><rect width="1200" height="300" fill="#000"/><rect x="-220" y="0" width="220" height="300" fill="url(#spot)"><animate attributeName="x" values="-260;1240" dur="5s" begin="2s" repeatCount="indefinite"/></rect></mask>
 <g mask="url(#combsweep)" filter="url(#glow)" opacity="0.9"><polygon points="149.8,153.3 140.9,158.5 132.0,153.3 132.0,143.0 140.9,137.9 149.8,143.0" fill="#FFD166"/>
